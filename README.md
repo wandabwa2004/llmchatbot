@@ -55,3 +55,15 @@ knowitall-chatbot/
    - Click the "Submit" button to interact with the GPT-4 model.
 5. View Results:
    - See the generated response displayed below the input area. If you've chosen "Write Code," the result is shown in a syntax-highlighted code block.
+
+**Screenshots of the  Interface:**
+
+![image](https://github.com/user-attachments/assets/8aa0b0ae-206c-4920-8ac2-6af5722246d0)
+![image](https://github.com/user-attachments/assets/2381b41b-b031-4f3f-bbb6-2cccb401a3a1)
+![image](https://github.com/user-attachments/assets/762ed756-c2de-4827-9f82-20424a30f1bd)
+
+**Future Enhancements**
+- Add user authentication for personalized sessions.
+- Store conversation history for reference.
+- Support additional languages for translations.
+- Include more advanced code generation features (e.g., debugging suggestions).
